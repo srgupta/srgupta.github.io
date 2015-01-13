@@ -1,0 +1,21 @@
+body {
+  background: url("http://fc02.deviantart.net/fs7/i/2005/193/d/7/Under_CONSTRUCTION_2_by_love1008.jpg");
+}
+
+h1 {
+  text-align:center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+p{
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#content {
+  padding: 5px;
+}
+
+h4 {
+  text-align: center;
+}
