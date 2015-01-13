@@ -1,0 +1,10 @@
+p {
+  color: red;
+}
+
+div {
+  height: 100px;
+  width: 500px;
+  display: inline;
+  background-color: #888888;
+}

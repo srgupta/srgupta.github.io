@@ -1,0 +1,17 @@
+p {
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#blog_posts {
+  #float: right;
+}
+
+#bottom {
+  float: center;
+  display: inline-block;
+}
+
+body {
+    background-color: #9BB0BF;
+}
